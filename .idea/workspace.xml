@@ -14,6 +14,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +25,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1oPH0Ni3baySeTpsZC3DDUxgLCl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -147,25 +151,29 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="299" y="25" width="1920" height="706" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.800/1280.0.1920.1080@0.0.1280.800" timestamp="1613183637591" />
-    <state width="1238" height="203" key="GridCell.Tab.0.bottom" timestamp="1613280381035">
+    <state width="1238" height="203" key="GridCell.Tab.0.bottom" timestamp="1613280804750">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.0.1920.1080@0.0.1280.800" timestamp="1613280381035" />
+    <state width="1238" height="203" key="GridCell.Tab.0.bottom/0.0.1280.800/1280.25.1920.1055@0.0.1280.800" timestamp="1613280804750" />
     <state width="1878" height="203" key="GridCell.Tab.0.bottom/0.25.1280.708/1280.25.1920.1055@0.25.1280.708" timestamp="1613280006995" />
-    <state width="1238" height="203" key="GridCell.Tab.0.center" timestamp="1613280381031">
+    <state width="1238" height="203" key="GridCell.Tab.0.center" timestamp="1613280804748">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="203" key="GridCell.Tab.0.center/0.0.1280.800/1280.0.1920.1080@0.0.1280.800" timestamp="1613280381031" />
+    <state width="1238" height="203" key="GridCell.Tab.0.center/0.0.1280.800/1280.25.1920.1055@0.0.1280.800" timestamp="1613280804748" />
     <state width="1878" height="203" key="GridCell.Tab.0.center/0.25.1280.708/1280.25.1920.1055@0.25.1280.708" timestamp="1613280006994" />
-    <state width="1238" height="203" key="GridCell.Tab.0.left" timestamp="1613280381029">
+    <state width="1238" height="203" key="GridCell.Tab.0.left" timestamp="1613280804746">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="203" key="GridCell.Tab.0.left/0.0.1280.800/1280.0.1920.1080@0.0.1280.800" timestamp="1613280381029" />
+    <state width="1238" height="203" key="GridCell.Tab.0.left/0.0.1280.800/1280.25.1920.1055@0.0.1280.800" timestamp="1613280804746" />
     <state width="1878" height="203" key="GridCell.Tab.0.left/0.25.1280.708/1280.25.1920.1055@0.25.1280.708" timestamp="1613280006994" />
-    <state width="1238" height="203" key="GridCell.Tab.0.right" timestamp="1613280381033">
+    <state width="1238" height="203" key="GridCell.Tab.0.right" timestamp="1613280804749">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="203" key="GridCell.Tab.0.right/0.0.1280.800/1280.0.1920.1080@0.0.1280.800" timestamp="1613280381033" />
+    <state width="1238" height="203" key="GridCell.Tab.0.right/0.0.1280.800/1280.25.1920.1055@0.0.1280.800" timestamp="1613280804749" />
     <state width="1878" height="203" key="GridCell.Tab.0.right/0.25.1280.708/1280.25.1920.1055@0.25.1280.708" timestamp="1613280006995" />
   </component>
 </project>
